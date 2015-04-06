@@ -173,6 +173,46 @@ a {
   border: 0;
 }
 
+.sidebar{
+  margin-bottom: 1rem;
+}
+
+.sidebar .widget{
+  margin-bottom: 3rem;
+}
+
+.sidebar ul{
+  padding: 0;
+  list-style: none;
+}
+
+.sidebar li{
+  margin-bottom: .5rem;
+}
+
+.sidebar li a {
+  color: #696969;
+}
+
+.sidebar li a:hover{
+  text-decoration: none;
+  border-bottom: 1px dotted #838383
+}
+
+.sidebar img{
+  margin-bottom: 1rem;
+  border-radius: 4px;
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.sidebar img:hover{
+  -webkit-filter: grayscale(50%);
+  -moz-filter: grayscale(50%);
+  filter: grayscale(50%);
+}
+
 @media (max-width: 992px){
   .jumbotron h1 {
     font-size: 72px;
