@@ -114,6 +114,14 @@ p {
   margin-bottom: 3rem;
 }
 
+.site-footer span{
+  margin-right: 0.5em;
+}
+
+.site-footer{
+  margin-bottom: 3rem;
+}
+
 @media (max-width: 992px){
   .jumbotron h1 {
     font-size: 72px;
