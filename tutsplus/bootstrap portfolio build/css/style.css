@@ -214,6 +214,14 @@ a {
   filter: grayscale(50%);
 }
 
+.contact-form {
+  background: #111;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  border-radius: 4px;
+  margin-bottom: 3rem;
+}
+
 @media (max-width: 992px){
   .jumbotron h1 {
     font-size: 72px;
