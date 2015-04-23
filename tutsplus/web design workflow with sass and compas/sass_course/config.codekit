@@ -83,17 +83,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/images\/icons-s4639d61de8.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2015,
-		"inputAbbreviatedPath": "\/images\/icons-s4639d61de8.png",
-		"outputAbbreviatedPath": "\/images\/icons-s4639d61de8.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/icons\/briefcase.png": {
 		"fileType": 32768,
 		"ignore": 0,

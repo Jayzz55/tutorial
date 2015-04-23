@@ -1,0 +1,30 @@
+/* Lesson 7 */
+@import "compass/utilities/sprites";
+@import "icons/*.png";
+@include all-icons-sprites;
+
+/* Get the image size */
+$height: icons-sprite-height(car);
+$width: icons-sprite-width(car);
+
+.sprites-test li{
+  display: block;
+  height: $height;
+  width: $width;
+}
+
+.custom-class {
+  @include icons-sprite(briefcase);
+}
+
+/* Codeschool way */
+// @import "compass";
+// $icons: sprite-map("icons/*.png");
+
+// @each $i in sprite_names($icons){
+//   .icons-#{$i}{
+//     background: $icons;
+//     background-position: sprite-position($icons, $i);
+//     @include sprite-dimensions($icons, $i);
+//   }
+// }
