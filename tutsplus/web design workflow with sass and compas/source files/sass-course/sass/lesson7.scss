@@ -1,0 +1,18 @@
+/* Lesson 7 */
+@import "compass/utilities/sprites";
+@import "icons/*.png";
+@include all-icons-sprites;
+
+/* Get the image size */
+$height: icons-sprite-height(car);
+$width: icons-sprite-width(car);
+
+.sprites-test li {
+	display: block;
+	height: $height;
+	width: $width;
+}
+
+.custom-class {
+	@include icons-sprite(briefcase);
+}

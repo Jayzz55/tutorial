@@ -1,0 +1,46 @@
+/* Lesson 3 */
+.example div {
+  width: 40px;
+  height: 40px;
+  background: #eee;
+  margin: 20px;
+  float: left;
+}
+.example div a {
+  display: inline-block;
+}
+
+/* Variables */
+body {
+  font: Helvetica, Arial, sans-serif;
+}
+
+.container a {
+  color: #555555;
+}
+
+/* Mixins */
+.box {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  font-size: 200%;
+}
+
+.container {
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
+/* Mixins with variable arguments... */
+.box-2 {
+  -webkit-box-shadow: 0 0 3px #333333, inset 5px 5px 5px red;
+  -moz-box-shadow: 0 0 3px #333333, inset 5px 5px 5px red;
+  box-shadow: 0 0 3px #333333, inset 5px 5px 5px red;
+}
+
+/* Functions */
+p {
+  margin-bottom: 48px;
+}

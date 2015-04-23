@@ -1,0 +1,54 @@
+/* Lesson 4 */
+.container ul {
+  margin: 1em;
+}
+.container ul li {
+  display: inline;
+}
+.container ul li .link {
+  color: red;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover, .button, .button-red {
+  text-decoration: underline;
+}
+.sidebar a {
+  color: blue;
+}
+
+/* Nested properties */
+.hero-unit {
+  font-family: Helvetica;
+  font-size: 200%;
+  font-weight: bold;
+  border-right: 1em;
+  border-bottom: 1em;
+}
+
+/* Inheritance */
+.button, .button-red {
+  background-color: #ccc;
+  display: inline-block;
+  padding: 1em 1.5em;
+  color: #fff;
+}
+
+.button-red {
+  background-color: red;
+}
+
+.box, .bigger-box, .huge-box {
+  padding: 1em;
+  border: 1px #ccc;
+}
+
+.bigger-box, .huge-box {
+  padding: 2em;
+}
+
+.huge-box {
+  padding: 10em;
+}

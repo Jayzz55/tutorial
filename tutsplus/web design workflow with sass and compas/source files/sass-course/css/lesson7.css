@@ -1,0 +1,31 @@
+/* Lesson 7 */
+.icons-sprite, .icons-briefcase, .icons-car, .icons-marker, .icons-speakers, .custom-class {
+  background: url('../images/icons-s86b01d1019.png') no-repeat;
+}
+
+.icons-briefcase {
+  background-position: 0 -96px;
+}
+
+.icons-car {
+  background-position: 0 -64px;
+}
+
+.icons-marker {
+  background-position: 0 0;
+}
+
+.icons-speakers {
+  background-position: 0 -32px;
+}
+
+/* Get the image size */
+.sprites-test li {
+  display: block;
+  height: 32px;
+  width: 32px;
+}
+
+.custom-class {
+  background-position: 0 -96px;
+}

@@ -1,0 +1,77 @@
+/* Lesson 3 */
+.example div{
+  width: 40px;
+  height: 40px;
+  background: #eee;
+  margin: 20px;
+  float: left;
+
+  a {
+    display: inline-block
+  }
+
+}
+
+/* Variables */
+$link-color: #555;
+$fonts: Helvetica, Arial, sans-serif;
+
+body {
+  font: $fonts;
+}
+
+.container{
+  a{
+    color: $link-color;
+  }
+}
+
+/* Mixins */
+@mixin border-radius($radius: 10px){
+  border-radius: $radius;
+  background: linear-gradient(-45deg, red,blue);
+  display: flex;
+}
+
+@mixin large-font{
+  font-size: 200%;
+}
+
+@mixin hero-unit{
+  @include large-font;
+  @include border-radius;
+}
+
+.container{
+  @include border-radius(5px);
+
+}
+
+.box{
+  @include hero-unit;
+}
+
+/* Mixins with variable arguments... */
+@mixin box-shadow($args...){
+  -moz-box-shadow: $args;
+  box-shadow: $args;
+}
+
+.box-2{
+  @include box-shadow(0 0 3px #333, inset 5px 5px 5px red);
+}
+
+/* Functions */
+$base-font-size: 16;
+
+@function global-margin($bfs){
+  @return ($bfs * 1.5) * 2 + px;
+}
+
+p {
+  margin-bottom: global-margin($base-font-size);
+}
+
+
+
+

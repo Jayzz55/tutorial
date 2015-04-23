@@ -1,0 +1,29 @@
+/* Lesson 5 */
+@import "reset";
+
+.container {
+	@import "partials/another-partial";
+}
+
+
+/* Operators */
+div {
+	width: 3in + 20px;
+}
+
+.container {
+	font: 16px/24px;
+	$height: 500px;
+	height: $height / 5;
+	width: (1000px / 2);
+}
+
+p {
+	width: 1em + 3em * 5;
+	height: (1em + 3em) * 5;
+}
+
+button:before {
+	content: "Quoted " + string;
+	font-family: "sans-" + serif;
+}

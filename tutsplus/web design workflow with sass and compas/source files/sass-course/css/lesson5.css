@@ -1,0 +1,30 @@
+/* Lesson 5 */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container a {
+  text-decoration: none;
+}
+
+/* Operators */
+div {
+  width: 3.20833in;
+}
+
+.container {
+  font: 16px/24px;
+  height: 100px;
+  width: 500px;
+}
+
+p {
+  width: 16em;
+  height: 20em;
+}
+
+button:before {
+  content: "Quoted string";
+  font-family: "sans-serif";
+}

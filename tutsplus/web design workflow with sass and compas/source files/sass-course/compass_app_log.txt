@@ -1,0 +1,134 @@
+2014-01-30 05:45:28    create stylesheets/lesson3.css 
+2014-01-30 05:47:42    create stylesheets/lesson3-sass.css 
+2014-01-30 05:48:48 overwrite stylesheets/lesson3-sass.css 
+2014-01-30 05:49:15    remove .sass-cache/ 
+2014-01-30 05:49:15 directory css/ 
+2014-01-30 05:49:15    create css/lesson3-sass.css 
+2014-01-30 05:49:15    create css/lesson3.css 
+2014-01-30 05:49:39    remove .sass-cache/ 
+2014-01-30 05:49:39    remove css/lesson3-sass.css 
+2014-01-30 05:49:39    remove css/lesson3.css 
+2014-01-30 05:49:39    create css/lesson3-sass.css 
+2014-01-30 05:49:39    create css/lesson3.css 
+2014-01-30 05:49:43    remove .sass-cache/ 
+2014-01-30 05:49:43    remove css/lesson3-sass.css 
+2014-01-30 05:49:43    remove css/lesson3.css 
+2014-01-30 05:49:43    create css/lesson3-sass.css 
+2014-01-30 05:49:43    create css/lesson3.css 
+2014-01-30 05:51:43 overwrite css/lesson3.css 
+2014-01-30 05:52:11 overwrite css/lesson3.css 
+2014-01-30 05:52:27 identical css/lesson3.css 
+2014-01-30 05:53:14    remove .sass-cache/ 
+2014-01-30 05:53:14    remove css/lesson3-sass.css 
+2014-01-30 05:53:14    remove css/lesson3.css 
+2014-01-30 05:53:14    create css/lesson3-sass.css 
+2014-01-30 05:53:14    create css/lesson3.css 
+2014-01-30 05:53:36 overwrite css/lesson3-sass.css 
+2014-01-30 05:53:40 overwrite css/lesson3.css 
+2014-01-30 05:55:25 overwrite css/lesson3-sass.css 
+2014-01-30 05:56:39 overwrite css/lesson3.css 
+2014-01-30 05:57:49 overwrite css/lesson3.css 
+2014-01-30 05:58:33 identical css/lesson3.css 
+2014-01-30 05:59:03 overwrite css/lesson3.css 
+2014-01-30 05:59:42 overwrite css/lesson3.css 
+2014-01-30 05:59:50 identical css/lesson3.css 
+2014-01-30 06:01:33 identical css/lesson3.css 
+2014-01-30 06:02:06 overwrite css/lesson3.css 
+2014-01-30 06:02:18 overwrite css/lesson3.css 
+2014-01-30 06:02:52 identical css/lesson3.css 
+2014-01-30 06:03:24     error sass/lesson3.scss (Line 43: Invalid CSS after "...lude large-font": expected "}", was "'")
+2014-01-30 06:03:24 overwrite css/lesson3.css 
+2014-01-30 06:03:34 overwrite css/lesson3.css 
+2014-01-30 06:04:59 overwrite css/lesson3.css 
+2014-01-30 06:05:24 overwrite css/lesson3.css 
+2014-01-30 06:07:04 overwrite css/lesson3.css 
+2014-01-30 06:09:31    create css/lesson4.css 
+2014-01-30 06:09:33 overwrite css/lesson4.css 
+2014-01-30 06:10:08 identical css/lesson4.css 
+2014-01-30 06:11:13 overwrite css/lesson4.css 
+2014-01-30 06:12:32 overwrite css/lesson4.css 
+2014-01-30 06:14:18 overwrite css/lesson4.css 
+2014-01-30 06:14:47 overwrite css/lesson4.css 
+2014-01-30 06:15:23 overwrite css/lesson4.css 
+2014-01-30 06:16:25 overwrite css/lesson4.css 
+2014-01-30 06:16:39 overwrite css/lesson4.css 
+2014-01-30 06:16:58 identical css/lesson4.css 
+2014-01-30 06:18:02 overwrite css/lesson4.css 
+2014-01-30 06:18:56 overwrite css/lesson4.css 
+2014-01-30 06:19:20 overwrite css/lesson4.css 
+2014-01-30 06:19:53 overwrite css/lesson4.css 
+2014-01-30 06:21:33    create css/lesson5.css 
+2014-01-30 06:21:35 overwrite css/lesson5.css 
+2014-01-30 06:21:36 identical css/lesson5.css 
+2014-01-30 06:24:01     error sass/lesson5.scss (Line 2: File to import not found or unreadable: reset.
+Load paths:
+  /Users/adipurdila/Desktop/sass-course/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-0.10.4/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp-0.1.1/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-normalize-1.4.3/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.3.2.1/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.9/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-4.3.1/scss
+  Compass::SpriteImporter
+  /vendor/assets/stylesheets)
+2014-01-30 06:24:01 overwrite css/lesson5.css 
+2014-01-30 06:25:05 overwrite css/lesson5.css 
+2014-01-30 06:25:07 identical css/lesson5.css 
+2014-01-30 06:26:01 overwrite css/lesson5.css 
+2014-01-30 06:27:00 overwrite css/lesson5.css 
+2014-01-30 06:27:26 overwrite css/lesson5.css 
+2014-01-30 06:27:52 identical css/lesson5.css 
+2014-01-30 06:28:23 overwrite css/lesson5.css 
+2014-01-30 06:29:20 overwrite css/lesson5.css 
+2014-01-30 06:29:54 overwrite css/lesson5.css 
+2014-01-30 06:30:30 identical css/lesson5.css 
+2014-01-30 06:30:48 overwrite css/lesson5.css 
+2014-01-30 06:31:22 overwrite css/lesson5.css 
+2014-01-30 06:32:32    remove .sass-cache/ 
+2014-01-30 06:32:32    remove css/lesson3-sass.css 
+2014-01-30 06:32:32    remove css/lesson3.css 
+2014-01-30 06:32:32    remove css/lesson4.css 
+2014-01-30 06:32:32    remove css/lesson5.css 
+2014-01-30 06:32:32    create css/lesson3-sass.css 
+2014-01-30 06:32:33    create css/lesson3.css 
+2014-01-30 06:32:33    create css/lesson4.css 
+2014-01-30 06:32:33    create css/lesson5.css 
+2014-01-30 06:32:43 identical css/lesson5.css 
+2014-01-30 06:34:51 overwrite css/lesson5.css 
+2014-01-30 06:35:05 overwrite css/lesson5.css 
+2014-01-30 06:35:44 overwrite css/lesson5.css 
+2014-01-30 06:36:56 overwrite css/lesson5.css 
+2014-01-30 06:37:36 overwrite css/lesson5.css 
+2014-01-30 06:39:05    create css/lesson6.css 
+2014-01-30 06:39:06 overwrite css/lesson6.css 
+2014-01-30 06:39:08 identical css/lesson6.css 
+2014-01-30 06:42:35 identical css/lesson6.css 
+2014-01-30 06:42:49 overwrite css/lesson6.css 
+2014-01-30 06:48:20 overwrite css/lesson6.css 
+2014-01-30 06:54:15 identical css/lesson6.css 
+2014-01-30 06:54:39 overwrite css/lesson6.css 
+2014-01-30 06:56:26 overwrite css/lesson6.css 
+2014-01-30 06:57:01     error sass/lesson6.scss (Line 5: Invalid CSS after "...r-radius(10px);": expected "}", was "")
+2014-01-30 06:57:01 overwrite css/lesson6.css 
+2014-01-30 06:57:10 overwrite css/lesson6.css 
+2014-01-30 06:58:01 overwrite css/lesson6.css 
+2014-01-30 07:02:19    create css/lesson7.css 
+2014-01-30 07:02:27 overwrite css/lesson7.css 
+2014-01-30 07:02:30 identical css/lesson7.css 
+2014-01-30 07:05:33 identical css/lesson7.css 
+2014-01-30 07:06:03    create images/icons-s86b01d1019.png
+2014-01-30 07:06:03 overwrite css/lesson7.css 
+2014-01-30 07:06:17 unchanged images/icons-s86b01d1019.png
+2014-01-30 07:06:17 identical css/lesson7.css 
+2014-01-30 07:06:37 unchanged images/icons-s86b01d1019.png
+2014-01-30 07:06:38 overwrite css/lesson7.css 
+2014-01-30 07:09:26 unchanged images/icons-s86b01d1019.png
+2014-01-30 07:09:26 overwrite css/lesson7.css 
+2014-01-30 07:09:48 unchanged images/icons-s86b01d1019.png
+2014-01-30 07:09:48 overwrite css/lesson7.css 
+2014-01-30 07:10:24 unchanged images/icons-s86b01d1019.png
+2014-01-30 07:10:24 overwrite css/lesson7.css 
+2014-01-30 07:11:18 unchanged images/icons-s86b01d1019.png
+2014-01-30 07:11:18 identical css/lesson7.css 
