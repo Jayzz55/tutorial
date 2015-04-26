@@ -419,3 +419,10 @@ td,
 th {
   padding: 0;
 }
+
+/* Apply a natural box layout model to all elements */
+*,
+*:before,
+*:after{
+  box-sizing: border-box;
+}
